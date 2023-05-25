@@ -1,0 +1,116 @@
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Time Data Added: 05-25-2023 | 03:40 AM EDT
+PFIND (Line # 6) [File Path: C:\Users\Matthew\PycharmProjects\Script #2\test_files\nested_test\test_3.insert]
+  DKSJF
+  JFDKS
+  DJFDK
+  FJDK
+  JSKDL
+  JFKDK
+  JFDKD
+  JFDKS
+OFIND (Line # 30) [File Path: C:\Users\Matthew\PycharmProjects\Script #2\test_files\nested_test\test_3.insert]
+  DKSJF
+  JFDKS
+  DJFDK
+  FJDK
+  JSKDL
+  JFKDK
+  JFDKD
+  JFDKS
+LFIND (Line # 69) [File Path: C:\Users\Matthew\PycharmProjects\Script #2\test_files\nested_test\test_3.insert]
+  DKSJF
+  JFDKS
+  DJFDK
+  FJDK
+  JSKDL
+  JFKDK
+  JFDKD
+  JFDKS
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Time Data Added: 05-25-2023 | 03:40 AM EDT
+PFIND (Line # 6) [File Path: C:\Users\Matthew\PycharmProjects\Script #2\test_files\nested_test\test_3.insert]
+  DKSJF
+  JFDKS
+  DJFDK
+  FJDK
+  JSKDL
+  JFKDK
+  JFDKD
+  JFDKS
+OFIND (Line # 30) [File Path: C:\Users\Matthew\PycharmProjects\Script #2\test_files\nested_test\test_3.insert]
+  DKSJF
+  JFDKS
+  DJFDK
+  FJDK
+  JSKDL
+  JFKDK
+  JFDKD
+  JFDKS
+LFIND (Line # 69) [File Path: C:\Users\Matthew\PycharmProjects\Script #2\test_files\nested_test\test_3.insert]
+  DKSJF
+  JFDKS
+  DJFDK
+  FJDK
+  JSKDL
+  JFKDK
+  JFDKD
+  JFDKS
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Time Data Added: 05-25-2023 | 03:41 AM EDT
+PFIND (Line # 6) [File Path: C:\Users\Matthew\PycharmProjects\Script #2\test_files\nested_test\test_3.insert]
+  DKSJF
+  JFDKS
+  DJFDK
+  FJDK
+  JSKDL
+  JFKDK
+  JFDKD
+  JFDKS
+OFIND (Line # 30) [File Path: C:\Users\Matthew\PycharmProjects\Script #2\test_files\nested_test\test_3.insert]
+  DKSJF
+  JFDKS
+  DJFDK
+  FJDK
+  JSKDL
+  JFKDK
+  JFDKD
+  JFDKS
+LFIND (Line # 69) [File Path: C:\Users\Matthew\PycharmProjects\Script #2\test_files\nested_test\test_3.insert]
+  DKSJF
+  JFDKS
+  DJFDK
+  FJDK
+  JSKDL
+  JFKDK
+  JFDKD
+  JFDKS
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Time Data Added: 05-25-2023 | 03:41 AM EDT
+PFIND (Line # 6) [File Path: C:\Users\Matthew\PycharmProjects\Script #2\test_files\nested_test\test_3.insert]
+  DKSJF
+  JFDKS
+  DJFDK
+  FJDK
+  JSKDL
+  JFKDK
+  JFDKD
+  JFDKS
+OFIND (Line # 30) [File Path: C:\Users\Matthew\PycharmProjects\Script #2\test_files\nested_test\test_3.insert]
+  DKSJF
+  JFDKS
+  DJFDK
+  FJDK
+  JSKDL
+  JFKDK
+  JFDKD
+  JFDKS
+LFIND (Line # 69) [File Path: C:\Users\Matthew\PycharmProjects\Script #2\test_files\nested_test\test_3.insert]
+  DKSJF
+  JFDKS
+  DJFDK
+  FJDK
+  JSKDL
+  JFKDK
+  JFDKD
+  JFDKS
