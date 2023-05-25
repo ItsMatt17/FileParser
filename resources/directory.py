@@ -1,6 +1,6 @@
 import typing
 from pathlib import Path
-from tqdm import tqdm
+
 class Directory:
     def __init__(self, path_obj : Path):
         self.__path : Path = path_obj
