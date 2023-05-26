@@ -1,8 +1,10 @@
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Time Data Added: 05-25-2023 | 10:59 PM EDT
+Time Data Added: 05-26-2023 | 12:58 PM EDT
 RFIND (Line # 1) [File Path: C:\Users\Matthew\PycharmProjects\Script #2\test_files\nested_test\test_3.insert]
-  LDKD
-  ACLDM                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      4
+  ACLDM                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      31
 ASIND (Line # 3) [File Path: C:\Users\Matthew\PycharmProjects\Script #2\test_files\nested_test\test_3.insert]
+  ACLDM                                                                                                                       D
+  DSFJD
+PFIND (Line # 6) [File Path: C:\Users\Matthew\PycharmProjects\Script #2\test_files\nested_test\test_3.insert]
   LDKD
   ACLDM                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      4

@@ -57,5 +57,5 @@ class ChildTermAfterMonthStrategy(ParseStrategy):
 
             else:
                 print("Fucky Wucky")
-
+        self.__family.save_check(file_path)
         print(f"Final line number for {file_path} is #{final_line_num}")

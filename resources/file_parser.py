@@ -1,13 +1,13 @@
 import pathlib
 
 from resources.ABCs.ParseStrategy import ParseStrategy
-from resources.Data.save_file_data import SaveFileData
+from resources.Data.save_file_data import Storage
 from resources.directory import Directory
 class FileParser:
     def __init__(self, directory : Directory, strategy : ParseStrategy):
         #~~~~~~~~ Dependencies ~~~~~~~~~
         self.__directory : Directory = directory
-        self.__save_method = SaveFileData
+        self.__save_method = Storage
         self.__strategy : ParseStrategy = strategy
 
     def iter_folders(self):
