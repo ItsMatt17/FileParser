@@ -1,6 +1,6 @@
 import pathlib
 
-from resources.ABCs.ParseStrategy import ParseStrategy
+from resources.ABCs.parse_strategy import ParseStrategy
 from resources.Data.save_file_data import Storage
 from resources.directory import Directory
 class FileParser:

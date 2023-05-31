@@ -1,7 +1,8 @@
 import typing
+from dataclasses import dataclass
 
 from resources import FamilyInfo, Directory
-from resources.ABCs.ParseStrategy import ParseStrategy
+from resources.ABCs.parse_strategy import ParseStrategy
 
 
 class ChildTermAfterMonthStrategy(ParseStrategy):
@@ -59,3 +60,6 @@ class ChildTermAfterMonthStrategy(ParseStrategy):
                 print("Fucky Wucky")
         self.__family.save_check(file_path)
         print(f"Final line number for {file_path} is #{final_line_num}")
+
+
+

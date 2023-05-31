@@ -2,6 +2,7 @@ import dataclasses
 import typing
 from dataclasses import dataclass
 
+
 @dataclass(frozen=True)
 class Storage:
     parent : str
@@ -14,5 +15,5 @@ class Storage:
         Storage.save_objs.append(self)
     @classmethod
     def retrieve_objs(cls):
-       for i in cls.save_objs:
-           yield i
+        for i in cls.save_objs:
+            yield i

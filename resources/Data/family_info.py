@@ -2,6 +2,7 @@
 from resources.Data.save_file_data import Storage, Storage
 
 
+
 class FamilyInfo:
     def __init__(self, save_class):
         self._parent : str | None = None
@@ -14,7 +15,7 @@ class FamilyInfo:
 
     def save_data(self, file_path) -> None:
         self.__save_class(parent=self._parent, line_num=self._parent_line_num, children=self._children.copy(),
-                                        file_path=file_path)
+                          file_path=file_path)
 
 
     def save_check(self, current_file : str):
@@ -42,5 +43,4 @@ class FamilyInfo:
     @property
     def parent(self):
         return self._parent
-
 
